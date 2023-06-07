@@ -1,0 +1,11 @@
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\Kursovaya_OOP.csproj.AssemblyReference.cache
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\Kursovaya_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\Kursovaya_OOP.csproj.GenerateResource.cache
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\Kursovaya_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Errorick\Desktop\Технологии программирования\Kursovaya_OOP\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
